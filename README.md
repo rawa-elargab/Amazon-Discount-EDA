@@ -21,8 +21,8 @@ actual_price	The actual MRP of the product
 # Inspiration
 Amazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below
 
-Dataset Walkthrough
-Data Preprocessing
-Understanding Dataset Hierarchy
-Exploratory Data Analysis
-Data Visualization Using matlabplot and searborn
+- Dataset Walkthrough
+- Data Preprocessing
+- Understanding Dataset Hierarchy
+- Exploratory Data Analysis
+- Data Visualization Using matlabplot and searborn
